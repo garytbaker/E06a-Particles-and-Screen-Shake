@@ -1,5 +1,8 @@
 # E06a-Particles-and-Screen-Shake
 
+I have finished this assignment. i did a fireball, muzzle flash, and smoke effects.
+
+
 As with other exercises, Fork and Clone this repository.
 
 This exercise is an opportunity to experiment with the Particles2D node in Godot and to give you a script with which you can implement screen shake.
